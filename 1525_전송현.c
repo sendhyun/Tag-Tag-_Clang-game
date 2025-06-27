@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
 #include <stdlib.h>
-#include <winsock2.h>
 #include <windows.h>
 #include <conio.h>
 #include <time.h>
